@@ -1,3 +1,9 @@
+libimage-exiftool-perl (9.27) lucid; urgency=low
+
+  * Version bump !
+
+ -- Ubuntu <ubuntu@localhost>  Wed, 05 Jun 2013 17:03:24 +0000
+
 libimage-exiftool-perl (9.04-1) unstable; urgency=low
 
   * Take over for the Debian Perl Group with maintainer's approval

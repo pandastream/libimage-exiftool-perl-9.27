@@ -1,1 +1,1 @@
-*.args /usr/share/libimage-exiftool-perl
+arg_files/*.args /usr/share/libimage-exiftool-perl

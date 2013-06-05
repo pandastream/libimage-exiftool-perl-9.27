@@ -1,3 +1,4 @@
 README
-ExifTool_config
-*.args
+config_files/ExifTool_config
+config_files/convert_regions.config
+arg_files/*.args

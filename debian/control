@@ -6,7 +6,7 @@ Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
 Uploaders: Petter Reinholdtsen <pere@debian.org>, 
  Mari Wang <mariwan@ifi.uio.no>,
  gregor herrmann <gregoa@debian.org>
-Build-Depends: debhelper (>= 8)
+Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
 Vcs-Git: git://git.debian.org/pkg-perl/packages/libimage-exiftool-perl.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libimage-exiftool-perl.git
