@@ -1,0 +1,6 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+# debhelper 7 syntax
+
+%:
+	dh $@
