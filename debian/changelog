@@ -4,6 +4,19 @@ libimage-exiftool-perl (9.27) lucid; urgency=low
 
  -- Ubuntu <ubuntu@localhost>  Wed, 05 Jun 2013 17:03:24 +0000
 
+libimage-exiftool-perl (9.13-1) unstable; urgency=low
+
+  [ Salvatore Bonaccorso ]
+  * Change Vcs-Git to canonical URI (git://anonscm.debian.org)
+  * Change search.cpan.org based URIs to metacpan.org based URIs
+
+  [ gregor herrmann ]
+  * New upstream release.
+  * debian/copyright: update years.
+  * Drop spelling patch, merged upstream.
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 17 Feb 2013 18:32:07 +0100
+
 libimage-exiftool-perl (9.04-1) unstable; urgency=low
 
   * Take over for the Debian Perl Group with maintainer's approval
@@ -102,7 +115,7 @@ libimage-exiftool-perl (7.25-1) unstable; urgency=low
 libimage-exiftool-perl (7.15-1.1) unstable; urgency=low
 
   * Non-maintainer upload.
-  * Fix FTBFS with Perl 5.10.  Closes: #468035. 
+  * Fix FTBFS with Perl 5.10.  Closes: #468035.
 
  -- Mark Hymers <mhy@debian.org>  Sat, 05 Apr 2008 14:11:46 +0100
 
@@ -136,7 +149,7 @@ libimage-exiftool-perl (6.90-1) unstable; urgency=low
   * Lots of updates and bugfixes compared to last debian version
     (6.57).  See the Changes file for details.
   * Upload sponsored by Petter Reinholdtsen
-	
+
  -- Mari Wang <mariwan@ifi.uio.no>  Fri, 18 May 2007 12:37:52 +0200
 
 libimage-exiftool-perl (6.57-1) unstable; urgency=low
@@ -194,7 +207,7 @@ libimage-exiftool-perl (5.67-1) unstable; urgency=low
 
   * Upload of new production release. (Closes: #334058)
   * Excerpt from 'Changes' in the source package:
-    - Added write support for PNG and MRW (Minolta RAW) images 
+    - Added write support for PNG and MRW (Minolta RAW) images
     - Changes to handling of GPS coordinates
     - Added read support for several file formats (PBM, PGM, PPM, RAF
       (FujiFilm RAW), MP3 and WAV audio files (Oops... ExifTool has

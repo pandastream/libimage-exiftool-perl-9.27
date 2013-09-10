@@ -13,7 +13,7 @@ Comment:
  additional copyrights and the first reference below), which are covered
  under the GNU GPL license.
 Copyright:
- 2003-2012, Phil Harvey (phil at owl.phy.queensu.ca)
+ 2003-2013, Phil Harvey (phil at owl.phy.queensu.ca)
  2002, Leon Bottou and Yann Le Cun
  2001, AT&T
  1999-2001, LizardTech Inc.
@@ -23,7 +23,7 @@ Files: debian/*
 Copyright: 2005, 2006, 2007, 2008, 2009, 2010, 2011, Mari Wang <mariwan@ifi.uio.no>
  2005, Petter Reinholdtsen <pere@debian.org>
  2008, Mark Hymers <mhy@debian.org>
- 2012, gregor herrmann <gregoa@debian.org>
+ 2012-2013, gregor herrmann <gregoa@debian.org>
 License: Artistic or GPL-1+
 
 License: Artistic
