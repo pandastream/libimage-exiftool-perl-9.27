@@ -1,6 +1,6 @@
-libimage-exiftool-perl (9.27) lucid; urgency=low
+libimage-exiftool-perl (9.27-1ppa1) lucid; urgency=low
 
-  * Version bump !
+  * Fixed issue when captured date for some videos contained year 1947 instead of 2013
 
  -- Ubuntu <ubuntu@localhost>  Wed, 05 Jun 2013 17:03:24 +0000
 
